@@ -1,0 +1,1755 @@
+<div class="text-entry pure-u-1 pure-u-lg-16-24 col-text" style="height: 947px;"><div class="pure-g"><a class="controller-button btn-scriptlist pure-u-2-24 sm-show btn-menu btn-slidein" data-slidein="slidein-scriptlist"><i class="icon-menu"></i></a><div contenteditable="" class="needsclick needsfocus pure-u-lg-18-24 pure-u-16-24 script-title">YAMA_3</div><div class="pure-u-6-24 right"><a class="pure-button script-save" style="display: none;">Save</a><div class="last-updated xs-hide">Updated 2 days ago</div><div class="spinner"><i class="icon-spin5"></i></div></div></div><div class="loader"></div><a class="mobile-format-menu"><i class="icon-down-open-big"></i></a><div class="trumbowyg-box trumbowyg-editor-visible trumbowyg-en trumbowyg"><div class="trumbowyg-button-pane"><div class="trumbowyg-button-group "><button type="button" class="trumbowyg-bold-button needsclick" title="Bold (Ctrl + B)" tabindex="-1"><svg><use xlink:href="#trumbowyg-bold"></use></svg></button><button type="button" class="trumbowyg-italic-button needsclick" title="Italic (Ctrl + I)" tabindex="-1"><svg><use xlink:href="#trumbowyg-italic"></use></svg></button><button type="button" class="trumbowyg-underline-button needsclick" title="Underline" tabindex="-1"><svg><use xlink:href="#trumbowyg-underline"></use></svg></button></div><div class="trumbowyg-button-group "><button type="button" class="trumbowyg-historyUndo-button needsclick" title="Undo (Ctrl + Z)" tabindex="-1"><svg><use xlink:href="#trumbowyg-undo"></use></svg></button><button type="button" class="trumbowyg-historyRedo-button needsclick trumbowyg-disable" title="Redo (Ctrl + Y)" tabindex="-1"><svg><use xlink:href="#trumbowyg-redo"></use></svg></button></div><div class="trumbowyg-button-group "><button type="button" class="trumbowyg-foreColor-button trumbowyg-open-dropdown needsclick" title="Text color" tabindex="-1"><svg><use xlink:href="#trumbowyg-fore-color"></use></svg></button><button type="button" class="trumbowyg-backColor-button trumbowyg-open-dropdown needsclick" title="Background color" tabindex="-1"><svg><use xlink:href="#trumbowyg-back-color"></use></svg></button></div><div class="trumbowyg-button-group "><button type="button" class="trumbowyg-align-button trumbowyg-open-dropdown needsclick" title="align" tabindex="-1"><svg><use xlink:href="#trumbowyg-justify-left"></use></svg></button></div><div class="trumbowyg-button-group "><button type="button" class="trumbowyg-removeformat-button needsclick" title="Remove format" tabindex="-1"><svg><use xlink:href="#trumbowyg-removeformat"></use></svg></button></div><div class="trumbowyg-button-group "><button type="button" class="trumbowyg-insertPause-button trumbowyg-textual-button needsclick" title="Insert Pause (Ctrl + U)" tabindex="-1"><i class="icon-pause"></i></button><button type="button" class="trumbowyg-insertMarker-button trumbowyg-textual-button needsclick" title="Insert Marker (Ctrl + M)" tabindex="-1"><i class="icon-bookmark"></i></button></div></div><div class="trumbowyg-editor needsclick needsfocus notranslate" contenteditable="true" dir="ltr" placeholder="Say something awesome!" style="height: 735px;">
+
+<span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><p style=""><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><span style="background-color: rgb(0, 0, 0); word-spacing: normal;"><br></span></p><p style="background-color: rgb(30, 30, 30);"><span style="background-color: rgb(0, 0, 0); word-spacing: normal;">-Zhenya, Zhenya, it’s me. Roly-Poly. </span><br></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);">
+
+
+<span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">Maybe you want some water?
+</span>
+
+<br><br><br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">-Don't breathe on me! 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+What do you want? How much money?
+</span><br><br><br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Money … money is trash. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+You drink through your money and then it’s gone.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I need to have a serious talk with you.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Speak. What are you waiting for?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-How are you doing, are you okay?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Don't get close. Tell me what you want.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-The police pulled me into the station, Zhenya. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+They interrogated me for two hours. 
+</span><br><span style="background-color: rgb(0, 0, 0);">-Then they did a bad job of interrogating you 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+since you’re still standing. </span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);">-If I was doing it I would...
+</span><br><span style="background-color: rgb(0, 0, 0);">Why are you insulting me? 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+At least first ask me why they dragged me in.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-What do I care?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Because it has to do with you. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Remember, you and Tamara were called
+</span><br><span style="background-color: rgb(0, 0, 0);">
+to that rich man's home?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Are you serious? Of course, I remember. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+It was Lyuba's birthday. How do you know any of it?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-I know, Zhenya. The whole city now knows, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+and they're writing about it in the newspapers, 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+because your old man died from a bullet in the head.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-What are you babbling about? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Has vodka finally made you lose your mind?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Here. The famous theater manager – Krasovsky.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-I feel bad for the old man. He was so funny and nice.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+He told riddles to Tamara and me. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+What’s strange is that he barely drank anything.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+He smacked his little lips a little and fell asleep. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Ivan, why are you telling me this?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Because, Zhenya, they suspect you. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+They want you to give testimony. 
+</span><br><span style="background-color: rgb(0, 0, 0);">-Fine, let them suspect me. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Let them drag me in and interrogate me.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Okay, just don't worry.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Why should I be worried? We did our little job. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+We came, earned our money, took it and left. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+It's their job to figure out who killed him.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Yeah, let him get to the bottom of this.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Wait, let who get to the bottom of this?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Gladyshev, Peter Nikolayevich. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+He's the senior investigator in charge of the case. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+He came in here this morning.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Oh, so that was him, huh? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+So that was him I saw. I thought so.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-He knew nothing then. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+He came here for another reason, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+because of his son, 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+a cadet, Nikolai Gladyshev. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+They are very strict in the academy he goes to. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+But his parents are even stricter with him at home. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+You see, they’re even checking his diaries. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+They want him to be healthy all around and to be totally pure.
+</span><br><span style="background-color: rgb(0, 0, 0);">-He wants him to be pure …
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-He isn’t allowed to even look at any young ladies, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+not even his own cousins. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+But then they found something in his diary.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+ “I’ve fallen into insane and gentle love, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+farewell innocence, long live” ... 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+he was seeing someone, 
+</span><br>
+<br><br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+but he didn't say who, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+but he did write which brothel he was going to, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+that much they know absolutely. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Zhenya they think you’re responsible 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+for killing the old man and 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+for seducing that young boy.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-And what about you?
+</span><br><span style="background-color: rgb(0, 0, 0);">Me? They beat me for two hours. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+They made me remember everything that I know.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-You idiot. You wretch. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+You remember everything? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+You remember what happened to me? 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+I told you what happened to me …
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Zhenya, what about me?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-What about me?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-What about me?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-and me!?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Zhenya, I’m so worried about you, 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+I’m afraid they’re going to find you guilty of everything.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-What kind of life is this ... 
+</span><br><span style="background-color: rgb(0, 0, 0);">What kind of life am I living, Ivan? 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Wherever I turn, I am guilty. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+That old man, that stage manager, he had this box. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+You open the lid, and on the inside,  
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+there was this green velvet. Like a grass lawn. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+In the center there was this porcelain doll, a ballerina. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+And bells start to ring ... 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+as the ballerina starts 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+to spin, spin, spin, and suddenly, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+bang ... Ivan, she broke. Just broke. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Nobody dropped her. Do you understand?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+The doll was spinning and suddenly it was broken.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Ivan nobody dropped her, 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+she really broke down all by herself. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+No one was to blame, Ivan. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Ivan, if I ask you to do something, will you do it?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Zhenya, I will. I can.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Go right now to Gorokhovaya Street, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+there is the publisher's office, go to the rumor section. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Tell Sergei Platonov to come see me tonight.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-That's good that you remembered about him. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Does he remember me?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-He remembers me.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-He's got some money. Good thinking Zhenya.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Wait Ivan. Stop 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+by the cadet academy, find Nikolai Gladyshev there. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Tell him that Zhenya really misses him,
+</span><br><span style="background-color: rgb(0, 0, 0);">
+loves him and is waiting for him.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Zhenya, maybe, it’s not a good time for that right now.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-It’s a little too late to think about what it’s a good time for.
+</span><br><span style="background-color: rgb(0, 0, 0);">-Zhenya...
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">-Get going. 
+</span><br><span style="background-color: rgb(0, 0, 0);">-What is it Roly-Poly, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+bored with us are you? 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Heading to a different more entertaining place? 
+</span><br><span style="background-color: rgb(0, 0, 0);">-I have things to do.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-In that case, stay here. Tell us 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+a funny story about the thunderstorm in July 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+in the middle of the afternoon. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Because you started to tell us and then you stopped, Ivan. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+It’ll be fun.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-I really must get going …
+</span><br><span style="background-color: rgb(0, 0, 0);">
+when I get back then I’ll tell you about the storm, 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+and about other things.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-I'm sorry does it hurt?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-I’m sure it’ll heal before I die. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-You can’t kill me with fists alone, the only way I’ll die is 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+if you run me over like a dog getting run over
+</span><br><span style="background-color: rgb(0, 0, 0);">
+by a horse-drawn wagon.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-He's a brute.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Simeon? Yeah, he's a beast. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I've been seeing him for almost a year now. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+That scumbag, he beats me black and blue. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+For no reason at all. Just because he wants to. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+He pulls me into his room, locks the door and 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+leaps on me. He twists my hands, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+starts choking me and grabs my breasts.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+He starts to kiss me and then ends up biting me. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Then I've got blood coming out of me and I'm in tears. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+And that's all he wants. He also takes all my money and
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I don't even have enough money to buy cigarettes.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-But he's so pious.
+</span><br><span style="background-color: rgb(0, 0, 0);">-Yeah then wheezing, he'll jump off you and
+</span><br><span style="background-color: rgb(0, 0, 0);">
+start praying, that bastard. Forgive me, 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+mother most holy Mother of God forgive me.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+And his forehead will hit the floor. Wham! Wham! 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I'll whisper to him, Simeon Ilyich, 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+I'm sorry, can I go now? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+He will turn to look at me, and 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+in his eyes there’s real fear. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+He'll grit his teeth, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+and he'll have tears in his eyes.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+And then he'll whisper go, Manya, get going.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">Go my sweet girl. Can you imagine?
+</span><br>
+	
+<br><span style="background-color: rgb(0, 0, 0);">-I can imagine.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-I think he's committed some serious sins.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+He's guilty before God.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-We are all guilty before God. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Just listen everywhere you go people are saying, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+forgive me Lord, forgive me. My God forgive me. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+But God is deaf to their cries. He's pathetic and greedy.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Dear Lord, you shouldn't
+</span><br><span style="background-color: rgb(0, 0, 0);">
+talk about God like that Zhenya. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Manya, what were we born to do? 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+To drink away our misery with vodka and
+</span><br><span style="background-color: rgb(0, 0, 0);">
+lay down under various bastards? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+And then die in some ally with our throats cut? 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+That's probably going to be our fate. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+No Manya, we are not guilty before him. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+He's the one who is guilty before us.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Just think, we are appeaseable. We will forgive him.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+What about Luba?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+What about Luba?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+She got married. She got lucky.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-You fool God had nothing to do with that, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+she was helped by some good people.  </span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-If there are good people, then God also exists.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Sure, maybe in Kremenchug
+</span><br><span style="background-color: rgb(0, 0, 0);">
+in that mansion with the white columns.  </span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-You don't believe that he exists?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-And you believe that he does?
+</span><br><span style="background-color: rgb(0, 0, 0);">-I believe that he does. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Because you need to believe in something or
+</span><br><span style="background-color: rgb(0, 0, 0);">
+else you might as well just give up and die.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Keep on believing, if it’s what you need. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">-We should have one last party before we say goodbye. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+We could have it here somewhere, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+but that’s not going to work. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Emma Eduardovna would chase me away. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Better to come to my place.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+You’re not mad at me, are you? 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-What for?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Because of what I said about your cadet.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Forget about the cadet. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-I would like to, but I can't, Zhenya. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+It’s so stupid of me. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Remember, Lyuba's birthday, 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+and you were sitting with your writer in his room? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Remember? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Well, that cadet came to see you then. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+He brought you a flower. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+He was so handsome, Zhenya.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+His face was clear, and his eyes were bright.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Give this to Zhenya, he said. Tell her that I ...  
+</span><br><span style="background-color: rgb(0, 0, 0);">
+And I stole the flower out of jealousy. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+You see boy what is happening here. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">` The innocent will answer for
+</span><br><span style="background-color: rgb(0, 0, 0);">
+what the guilty ones have done. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Zhenya!
+</span><br>
+<br><br><span style="background-color: rgb(0, 0, 0);"><br><img src="images/x.gif"></span><br><br><br><br><br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Tamara, it’s good that you’re here.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I need to talk with you.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Zhenya, I talked with Emma. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+She is still saying that 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+she won't let the girls stay here.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Let’s talk about the girls later. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+We need to talk first
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-I'm listening
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-No, I want to listen to you. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+What kind of charade happened between us
+</span><br><span style="background-color: rgb(0, 0, 0);">
+and that old theater manager, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+who wound up dead with a bullet in his head? 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+What? Cat got your tongue? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Firstly, calm down.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-And secondly?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Secondly, I was going to tell you everything.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Everything about what? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+About you and me. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+We've been friends for 2 years now. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+But you don't really know anything about me. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+How old am I?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-23
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-32. I'm older than all of you. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-But I'm not saying that to brag about my health.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+I'm telling you to let you know that 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I've seen more than you. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I studied at an institute. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+I was a governess; 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I speak French and German.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I sang in a choir. I had my own 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+shooting range in my garden. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I learned to shoot there and then 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I traveled with a circus, around Moscow. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+I could shoot 7 targets in 7 seconds.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+It was you who shot the old man?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+When did you do it? I never left your side 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+the whole time we were there.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Hold on, what do you know about the revolution?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-I don't read newspapers.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Sure, sure, we’re just living in our own
+</span><br><span style="background-color: rgb(0, 0, 0);">
+little underground world here. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Whatever is happening up above us, 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+spring or war - we don’t see it;
+</span><br><span style="background-color: rgb(0, 0, 0);">
+we don’t care about any of it.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Sergey Platonov told me a lot 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+about equality and brotherhood and 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+some other things that the revolutionaries talk about.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Sergey talked about it, 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+but I was making it into reality.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Where? In the brothel?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-In all of Russia.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Oh please, Tamara the revolutionary. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+You’ve got a red flag in one hand and 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+a prostitute’s license in the other. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">-Oh stop it!
+</span><br><span style="background-color: rgb(0, 0, 0);">-I’ve seen your so-called politicians.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Just the other day I saw two of your people. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+They had long dirty hair covered in dandruff. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+They're breath was foul and 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+their teeth rotting out, but
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+they were wearing glasses and 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+they were trying to act so serious. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+While one was on top of me, 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+the other one stood by the door 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+to warn him in case someone came in. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+They tried to leave without paying. But 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Simeon caught them right before they could leave.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+They shook his hand and said, “thank you comrade”. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+What's a smart beautiful woman like you 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+doing with such bastards like them? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+There're just low-life’s not revolutionaries.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-They are not all like that. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+What would you know about it?! 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I fell in love with a man.
+</span><br><span style="background-color: rgb(0, 0, 0);">You should have seen what kind of a man he was. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+I would have followed him anywhere.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Into a fire, or into the abyss, or across the ocean. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+And I followed him into the revolution. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-And why did he have to die? 
+</span><br><span style="background-color: rgb(0, 0, 0);">-He was killed by his own people. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+A provocateur snitched to the police 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+about an apartment that we were using as a printing house.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+And then he made it look like my man was 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+the one who did it. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+In the revolution, their trials are short.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+They burst into our home with pistols. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+And blew his brains all over the walls,
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+all in the name of the revolution.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-And what happened to you?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Oh, me? I leapt out through the window
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+out into the dirt. They wanted to kill me too,
+</span><br><span style="background-color: rgb(0, 0, 0);">
+because I was a witness. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+And then I hide in a monastery for two years.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+And then I changed my passport. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+And I ended up in this hole. 
+</span><br><span style="background-color: rgb(0, 0, 0);">-So the guy who tipped the police off
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+about the apartment was the theater manager, Krasovsky? 
+</span><br><span style="background-color: rgb(0, 0, 0);">-No, Krasovsky was just a supporter.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+He gave money to support the revolution. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+There are lots of people like him, Zhenya. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+More than you think.
+</span><br><span style="background-color: rgb(0, 0, 0);">-Why the hell should I think about that? 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+I can't understand, why would you shoot Krasovsky
+</span><br><span style="background-color: rgb(0, 0, 0);">
+if he supported the revolution? 
+</span><br><span style="background-color: rgb(0, 0, 0);">-Not me! It was that imbecile Senka.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+That damn crook. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Krasovsky was my lover. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+It was through me that Krasovsky became
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+a supporter of the revolution. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+We found out that he had just been entrusted 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+with a large sum of money and
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+that he wanted to take that money and disappear.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I needed to just find out what the code to his safe was
+</span><br><span style="background-color: rgb(0, 0, 0);">
+and drug him with sleeping pills. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+And Senya was supposed to just take the money. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Understand?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-I understand. We make a great team, don’t we? 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+A politician and a girl with syphilis. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+We will fight for total equality and fraternity.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Things are looking bad for you Tamara. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+They saw us. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+There are witnesses. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+And the main thing is the investigation is being led by mister ... 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Well that's a different story. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Basically, it’s time for you to flee once again.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Excuse me Mrs. housekeeper 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+I need to say goodbye to the other ladies.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Zhenya, stop it. Don't interrupt me.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+In my room under my bed is a suitcase with money, 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+you need to go get it. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Tonight, I'll be waiting for you at the train station. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Senya has made three passports for us. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+The two of us are going to leave. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+A week from now no one will ever find us. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Then we'll go to France, Germany, wherever. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+In Warsaw we can treat your illness. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+If you want, we can stay together, if not 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+we can go our separate ways, 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+but half of the money is yours. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+That's all I wanted to say.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Why me?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Because you’re different.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Different, huh? … 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+You said, no one will find us?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Not if we move fast. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+At the train station there is a church, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I'll wait for you there. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+You want to pray before we set off? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+If we have time. Have you decided? 
+</span><br><span style="background-color: rgb(0, 0, 0);">-I'll meet you there.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">-I'm going to see Senya to get our passports. 
+</span><br><span style="background-color: rgb(0, 0, 0);"><br>
+</span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);"><br></span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);"><br></span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);"><br></span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);"><br></span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"><br></span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);">-Housekeeper ... Simeon... 
+</span><br><span style="background-color: rgb(0, 0, 0);">-Mademoiselle Zhenya. In the flesh. 
+</span><br>
+<br><br><br><br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+How lucky you are.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-You think I'm lucky?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-What, you don't consider yourself to be lucky? 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Everyone is getting the boot and you’re climbing the ladder.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+You better be grateful to Tamara for the rest of your life 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+and keep her in your prayers. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+And you should thank me too.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-You?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-After all, I also put in a good word for you.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Simeon, what do you love more? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Money, girls. Or God?
+</span><br><span style="background-color: rgb(0, 0, 0);">-God.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Why?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-You can buy a girl or take one for free. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Just whack her on the back of the head and that's all. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+But God, my dear, God is our Lord.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-You are right Simeon; God is our Lord. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+But you, Simeon, are a stinking beast.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Oh, if I had a Browning right now. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I would blow your head off on the spot. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+So that there would be nothing left but 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+splatter marks all over the walls. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Pray, you beast and maybe one day
+</span><br><span style="background-color: rgb(0, 0, 0);">
+you will become a man.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-You twisted bitch. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Oh, mama...
+</span><br><span style="background-color: rgb(0, 0, 0);">-Mister.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Uh, oh..
+</span><br><span style="background-color: rgb(0, 0, 0);">-Mister ask Emma Eduardovna to take me back. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I can't stand it with that guy. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+I want to stay here with all of you.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I'll do whatever you tell me mister, anything. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I know about the money. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+I can wash your feet for you and drink the water. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I'll do anything you ask. 
+</span><br><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);"><span style="font-weight: normal;font-style: normal;text-decoration: none;rgb(0, 0, 0);color:rgb(255, 255, 255);">` I'd even suck you while you’re praying </span>
+
+<br>
+</span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);">in front of your icons, mister. </span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style=""><br></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);"><img src="images/x.gif"><br>
+«My darling»
+<br>-One silk dress with lace, 
+<br>
+
+
+<span style="font-weight: normal;font-style: normal;text-decoration: none;rgb(0, 0, 0);color:rgb(255, 255, 255);">from the dressmaker Evdokimova. </span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style=""><br></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+That’s 84 rubles. A matinee coat? Lace.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+From the dressmaker Evdokimova. 35 rubles.
+</span><br>
+<br><br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+I'm going crazy counting all these rubles. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+And it says here that the dress is 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+also made of silk, yeah right, 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+and I’m a train conductor. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+It’s made of twill, and that 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+dressmaker is trying to say that the collar is 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+embroidered with lace. It’s not embroidered 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+with lace, it’s embroidered with crap! 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+That dressmaker Evdokimova is a bitch.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Don't get mad at Anna Evdokimova, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+after all she probably didn't see even
+</span><br><span style="background-color: rgb(0, 0, 0);">
+a fourth of that money. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+So how much is your total debt?
+</span><br><span style="background-color: rgb(0, 0, 0);">-319. 
+</span><br><span style="background-color: rgb(0, 0, 0);">-And I owe 650. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+You want a drink, Zhenya?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-No thanks.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-What now? I'm up to my eyeballs in debt.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+ Am I going to have to go to prison now?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-No one wants you in that prison. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+To feed you there free of charge. You'll work it off.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-I get the feeling 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+that Emma Eduardovna is pulling one over on us.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-That's for sure. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+She wants us to come crawling to her on our knees.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Maybe we should, huh? If she told me to crawl, I'd crawl.
+</span><br><span style="background-color: rgb(0, 0, 0);">-No!
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">-Well, at least you won't have to Zhenya. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+You’re all set. She's letting you stay. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+You'll be here with all the new carpets, 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+pictures and, what did she say, priestesses of love. 
+</span><br><span style="background-color: rgb(0, 0, 0);">-Carpets and pictures, yeah, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+that's not really Emma's thing. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+She just doesn’t have enough brains
+</span><br><span style="background-color: rgb(0, 0, 0);">
+to cook up something like that. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+That was probably Tamara's idea. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Emma is quite simple. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+With her it would look like a barracks 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+with wooden plank bunks. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+No, wait girls, even better… It would be
+</span><br><span style="background-color: rgb(0, 0, 0);">
+a corridor in a hospital. With some iron cots. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+And in the beds, all the girls 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+would have the same face, so that 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+no one would get upset if they 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+didn't get the one they wanted. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+There would be a line in front of a ticket office. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+You'd come, pay, sit, wait. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+As soon as they got enough people,
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+they would invite the guests in. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Everyone would get sorted out, and then
+</span><br><span style="background-color: rgb(0, 0, 0);">
+she would blow a whistle, 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+and everyone would start. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Hump, bang, hump, bang … exactly for 10 minutes. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Soon after there would be a hygiene break. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Boys to the left, girls to the right. And then, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+there would be a line at the ticket office again.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+That's what she would do. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+The German whore. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+And she would make sure that we had lots of guests. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Right now, we cost 2 rubles, but with her we will be 50 kopeks.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Maybe that would be better? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+My Solomon can't seem to save up 2 rubles. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+But he could save up 50 kopeks.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-I’d light the place on fire. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I’d get drunk and burn it all down.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-You want to go to prison?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">-So, what? Do you think it’s better on the street in the winter?
+</span><br><span style="background-color: rgb(0, 0, 0);">Oh, I'm so sick of all of this. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Girls, here's to Zhenya.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Please, don’t.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Zhenya! You are the best one among us!
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-I want to drink to Zhenya. I remember 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+how you gave Solomon two rubles so that he could take me.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Zhenya gave us the money. And we went to a room. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+But he couldn’t perform. That’s because he was so happy. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Here's to you, Zhenya.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Oh, Zhenya. I also want to drink to your health.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+You are the youngest and most beautiful among us.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Girls. Just don't ask me any questions, alright? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Here. This should be enough money for all of you. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+You can pay off your debts and maybe 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+buy yourselves some things.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-What are you crazy? Come look at this!
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Look who’s here! It’s our favorite guests!
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+He’s not my brunette cadet, he’s not my blond. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+He will not con and will not betray.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+He always knows what jokes to say, 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+gifts of diamond and pearl 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+he gives them all to his girl.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Excuse me girls. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+I really need to speak with Sergey Ivanovich.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-I was thinking, we are going to have a party.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Let’s go, Manya. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">-Zhenya, it’s your turn to repay.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+«My Darling»
+</span><br><span style="background-color: rgb(0, 0, 0);">-Well, bye Sonya Rul.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Well, I'm not Sonya Rul. I'm Rakhil. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+That isn't my real last name. I'm Rakhil!
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Come here girlfriend, let me kiss you. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Bye Henrietta. By the way, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+what’s your full name?
+</span><br><span style="background-color: rgb(0, 0, 0);">-Agafya Kondratievna.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Okay, bye Grusha.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Well, finally we became acquainted for real.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Zhenya, I conveyed everything as you ordered. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+He promised that ... </span><span style="background-color: rgb(0, 0, 0);">that he would come </span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);">flying to you on the </span><span style="background-color: rgb(0, 0, 0);">wings of love. </span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);">-Thanks, Ivan.<br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Get going.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Well, what happened?
+</span><br><span style="background-color: rgb(0, 0, 0);">-Well...
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Do you want me to ask you, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+or are you going to tell me yourself?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-No, I'll tell you myself.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Is it something serious?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Why do you ask? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Did my messenger say something to you?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-He said that you want my advice.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Oh, Sergey, I was going to ask 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+for your advice, but now as it turns out, 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+I'm going to say farewell.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Zhenya, you’re not making any sense.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Platonov, are you in a hurry someplace?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-I have a publisher waiting for me
+</span><br><span style="background-color: rgb(0, 0, 0);">
+back at my house, he's going to publish my book.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-How are you going to print it?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+It doesn’t have an ending, remember? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I promised to give you an ending, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+when your friend took Lyuba.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-About my friend. I punched him in the face yesterday.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-But why?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Because of that girl. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+He brought her back to his place. He set her up and 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+the next day he called his friends over, his classmates. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+He wanted their advice on what to do with her. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">What to teach her. They brought vodka with them 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+and got him dead drunk. They locked him in a closet 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+and then they grabbed her and ... well. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+The old janitor that works in his building 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+told him the whole sordid story the next morning.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Poor girl, poor Lyuba.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+I don't know where she is. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+And for some reason Likhonin came running to me.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+“Platonov, help! I’m a man of my word. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+I swear before the people, before God. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I asked my friends for help; they played dumb and
+</span><br><span style="background-color: rgb(0, 0, 0);">
+just shrug their shoulders! 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+The police also didn’t believe me. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Platonov help me! I am a man of my word”. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+And I am a man of action. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+So, I punched him in his face.
+</span><br><span style="background-color: rgb(0, 0, 0);">-Rather a good ending for your book.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Zhenya, listen. If you do have something to say,
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+say it, if not, I need to run. I'm in a hurry, really.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-I'm ill, Sergey. I have syphilis. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+My case is so rare; 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+therefore, the doctor has noticed nothing. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+These past three weeks I've been 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+infecting everyone who came to me. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+And I'm doing it knowingly.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-That's…
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-A crime? No, Platonov. This is my revenge. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Because I, a normal person, equal to anyone else, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+was turned into a cesspool 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+just for other people’s entertainment. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+This is my revenge for not knowing my mother 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+or father from birth. For knowing nothing 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+about real love. Just imagine, Sergey, 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+you are walking down the street, and you see
+</span><br><span style="background-color: rgb(0, 0, 0);">
+a child that someone has tortured, let's say, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+they pulled out one of their eyes.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+ And you see the man who just did it.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+There is nobody besides you but this man on the street. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Only God sees you. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+What would you do with him?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-I would kill him. 
+</span><br><span style="background-color: rgb(0, 0, 0);">-We were children too, Sergey. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+We were greedy, pathetic and stupid. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+But we were just kids. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+We were playing on our lawn. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+But we did not know that our coil will soon break.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Zhenya, listen, I …
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-If you offer me money for treatment, I will hit you! 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Sorry... Sorry, Sergey, I don't even know 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+what I am trying to say. Okay … 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+come to me, please. Sit down. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Just hug me. Do not worry, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+you won't get infected. I'm so confused.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-You’re not confused, you’re mistaken.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-About what?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-No matter how badly life may have wronged you, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+you cannot just take revenge on everyone.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Can I take revenge on one only? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Thanks for the advice Platonov. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+But I think I’ll decide for myself. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">-What did you expect? 
+</span><br><span style="background-color: rgb(0, 0, 0);">What did you expect to hear from me? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Something different?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">-Well, you warned me that 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+you’re not a man of words, but a man of action. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Can I count on you for that?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-You can. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Please, don't ask me any questions. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Take this money, in the evening come to Emma
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+tell her that you want to take me for the night. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I'll explain everything to you on the way.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-What is this?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Money.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-There's so much money here.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Yes, there is.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Where is it from?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-I told you not to ask questions.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Zhenya, I don't like this.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-I don't either. Will you do what I asked?
+</span><br><span style="background-color: rgb(0, 0, 0);">-Yes. 
+</span><br><span style="background-color: rgb(0, 0, 0);">-Serezha! We've known each other 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+for a while now, we drank vodka together, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+talked heart to heart. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Did it ever cross your mind to take me out of this place?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Even if you were drunk?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I've been waiting for that question.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Well, you don't have to wait anymore.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">Zhenya, I’ve arranged my life according to certain rules …
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Get going Sergey.  Go, just go.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Zhenya, you promised to tell me your ending for my book.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Was what I just told you not enough? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Come to me in the evening and I'll give you an ending.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-A good ending?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">` -Fabulous one. </span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);"><img src="images/x.gif"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);"><br></span></p><p style=""><br></p><p style=""><br></p><p style=""><br></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">-I have a present for you! 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+You know, it was so hard to get free!
+</span><br>
+<br><br><br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Now we’ve got the same level of discipline that
+</span><br><span style="background-color: rgb(0, 0, 0);">
+they have in the real army. In fact, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+we no longer have classes anymore, they’re companies.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+And our schoolmaster is a captain. A retired captain. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+He has one hand. He’s strict. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I’ve wanted to see you so badly.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-How did you manage to get away, sweetie?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-I fooled them. I told them that I was sick.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Sick? You, sick? Well yeah, 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+I guess you are sick, so sick.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Put your hands right there and
+</span><br><span style="background-color: rgb(0, 0, 0);">
+close your eyes. You’re so handsome Nikolai, 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+you smell so sweet.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-They say, that I look like my father.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Like your father? Do you love him?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Of course, why do you ask?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Does your father love you?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-In my family we all love each other, 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+the children love the parents 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+and the parents love the children.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-You're such a fool, Nikolai. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Why did you bring me flowers,
+</span><br><span style="background-color: rgb(0, 0, 0);">
+like you’re on a date or something?
+</span><br><span style="background-color: rgb(0, 0, 0);">-Actually, I never brought flowers to anyone …
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+all though, wait. Last year at our cottage 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+there was this girl, she was our neighbor.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+She fell in love with me like she was crazy. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+She wrote me letters. And then 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+she asked to meet me near the well, and 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I brought her a lilac branch that I found.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-And?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-And nothing. My father caught us and he punished me.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-What did he punish you for?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Did you do something bad to her?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Of course not, I just kissed her once 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+on the cheek. It was a game. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Well, maybe not entirely a game. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+You know how kids want to do all the things that adults do. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+They see everything. They’re always spying on the adults. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+My mom has a lover, an idiot 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+who dresses like a dandy and reeks of perfume. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+They always tell me to go take a walk, and
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+they’re shaking in anticipation because 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+they can’t wait to start once I’m gone. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+We had a maid, Anna. Well 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+my older brother and my father 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+were doing it with her, both. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+And then she got pregnant. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+So, they slapped her across the face
+</span><br><span style="background-color: rgb(0, 0, 0);">
+called her a dirty slut and threw her out 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+in the middle of the winter and 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+she walked away on foot without even a hat on her head.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-And, you said, he punished you?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-He took my lilac branch and 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+hit me across the face with it. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+The girl ran away and he …
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-What did he do?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-I don’t want to talk about it, Zhenya. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I love you. You may laugh, you might not believe me 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+but I’m telling the truth. I don’t care that 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+you’re in a place like this. In four years 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I’m going to have a salary. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I’m going to get you out of here.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-What did you say? Did you just say … 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+did you say?
+</span><br><span style="background-color: rgb(0, 0, 0);">-Stand up private! Get dressed! 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Get out of here bastard! 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+You’re going to get a serious talking to at home 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+when this is over. And you.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">I hope you’re ready, you snake.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-This is the end, Kolya.
+</span><br><span style="background-color: rgb(0, 0, 0);">-I told you. Get your things and leave.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Don’t you dare touch her.
+</span><br><span style="background-color: rgb(0, 0, 0);">-You would hit me? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Your own father? Because of a whore?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Yes. What are you going to do to me, huh? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Are you going to punish me, like you did then? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Remember what you did to me 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+just for kissing a girl on her cheek, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+you tied my hands and dropped me in the well. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Have you forgotten? 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+And how I cried then, remember? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+I cried, “Papa pull me up. I’m scared”. </span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+And from above you lectured me about morality. 
+</span><br>
+
+
+<span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">But you yourself are so filthy.
+</span>
+
+<br><br><br><br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-You’re very strict with your children 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+aren't you, Peter Nikolayevich?
+</span><br>
+<br><br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">-I told you to get going, now.
+</span><br><span style="background-color: rgb(0, 0, 0);">-What kind of morals are you trying 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+to teach them by throwing them down a well? 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Did you forget about me? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Nikolai, your dad forgot who I am. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Remember that little girl? 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+The little 9-year-old girl?
+</span><br><span style="background-color: rgb(0, 0, 0);">
+My father brought me to you 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+to pay his way out of prison. Remember?
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Remember that leather couch? 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+The blood. I guess you used a leather one 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+to make wiping blood from it easier. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">-Nikolai. Don’t listen to her, she’s lying.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Oh, how I begged you and pleaded. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Remember? “I’m just a little girl, it hurts so much”.
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">-Kolya, she’s a suspect in a murder.
+</span><br><span style="background-color: rgb(0, 0, 0);">-That’s enough out of you, Mr. Investigator. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+God only knows who murdered whom. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+You should show more compassion to your son. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Don’t go shoving him down wells. 
+</span><br><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);"><span style="font-weight: normal;font-style: normal;text-decoration: none;rgb(0, 0, 0);color:rgb(255, 255, 255);">Have mercy on him. Peter Nikolayevich. </span>
+
+</span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);">As I now have mercy on him.
+</span><br><span style="background-color: rgb(0, 0, 0);"><br></span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);"><br></span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);"><br></span></span></p><p style=""><br></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"><br></span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);">-Zhenya!!</span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);">
+
+<span style="font-weight: normal;font-style: normal;text-decoration: none;rgb(0, 0, 0);color:rgb(255, 255, 255);">-Nikolai..</span><br></span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);"><br></span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);"><br></span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);"><br></span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);"><br></span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"><br></span></span></p><p style=""><span style="background-color: rgb(0, 0, 0); word-spacing: normal;">` -Damn you.. </span><br></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);">Zhenya!
+</span><br><span style="background-color: rgb(0, 0, 0);">
+-Nikolai …
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"><br><br><br><br><br><br><br><br><img src="images/x.gif"></span><br>
+
+<span style="font-weight: normal;font-style: normal;text-decoration: none;background-color:rgb(30, 30, 30);color:rgb(255, 255, 255);"></span></span></p><p><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);">-Doctor, I do not understand 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+how you could not notice her illness? 
+</span><br><span style="background-color: rgb(0, 0, 0);">-Stop that nonsense. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Surely, I like my drink, 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+but I am a professional. 
+</span><br><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);"><span style="font-weight: normal;font-style: normal;text-decoration: none;rgb(0, 0, 0);color:rgb(255, 255, 255);">` I am telling you the girl was utterly healthy. </span>
+
+<br>
+</span></span></p><p></p><p></p><p style="background-color: rgb(30, 30, 30);"><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);">Healthy! </span></span></p><p style=""><br></p><p style="background-color: rgb(30, 30, 30);"><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);"><br></span></span></p><p style="background-color: rgb(30, 30, 30);"><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);"><br></span></span></p><p style="background-color: rgb(30, 30, 30);"><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);"><br></span></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"><br></span></span></p><p style="background-color: rgb(30, 30, 30);"><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style="background-color: rgb(30, 30, 30);"><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style="background-color: rgb(30, 30, 30);"><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style="background-color: rgb(30, 30, 30);"><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style="background-color: rgb(30, 30, 30);"><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style="background-color: rgb(30, 30, 30);"><br></p><p style="background-color: rgb(30, 30, 30);"><br></p></span><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+-Dear friends, pay close attention. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Living pictures, a thunderstorm on a summer day. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+It was a beautiful June day. 
+</span><br><br><br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+The sun's scorching rays illuminated the flowering landscape. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+But suddenly, clouds obscured the sun. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+And it became pitch dark. 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Lightning flashed in the distance; the first drops of rain fell. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+And there was a resounding clap of thunder.
+</span><br><span style="background-color: rgb(0, 0, 0);">
+And a century-old oak tree fell 
+</span><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">` to the ground like a fragile sapling. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+But then the thunder gradually subsided. 
+</span><br><span style="background-color: rgb(0, 0, 0);">
+And the clouds parted.
+</span><br>
+<br><span style="background-color: rgb(0, 0, 0);"><br><br><img src="images/x.gif"></span><p><br></p><p><br></p><p><br></p><p><br><br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br></p><p></p><p style="background-color: rgb(30, 30, 30);"><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);">-Holy God, Holy Strong,
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Holy Immortal, have mercy on us.
+</span><br>
+<br><br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Holy God, Holy Strong,
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Holy Immortal, have mercy on us.
+</span><br><br><br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+
+<span style="font-weight: normal;font-style: normal;text-decoration: none;background-color:rgb(30, 30, 30);color:rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);">Holy God, Holy Strong,
+</span></span><br>
+</span></span></p><p style="background-color: rgb(30, 30, 30);"><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);">Holy Immortal, have mercy on us. </span></span></p><p style="background-color: rgb(30, 30, 30);"><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style="background-color: rgb(30, 30, 30);"><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style="background-color: rgb(30, 30, 30);"><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style="background-color: rgb(30, 30, 30);"><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><br></span></p><p style=""><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Holy God, Holy Strong,
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Holy Immortal, have mercy on us.
+</span><br>
+<br><br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+Holy God, Holy Strong,
+</span><br><span style="background-color: rgb(0, 0, 0);">
+Holy Immortal, have mercy on us.
+</span><br><br>
+<br><br><br><span style="background-color: rgb(0, 0, 0);"><img src="images/x.gif"></span><br><span style="background-color: rgb(0, 0, 0);">
+
+<span style="font-weight: normal;font-style: normal;text-decoration: none;rgb(0, 0, 0);color:rgb(255, 255, 255);">Holy God, Holy Strong,
+</span>
+
+<br>
+</span></span></p><p style="background-color: rgb(30, 30, 30);"><span style="font-weight: normal; font-style: normal; text-decoration: none; color: rgb(255, 255, 255);"><span style="background-color: rgb(0, 0, 0);">Holy Immortal, have mercy on us.
+</span></span></p>
+
+<p></p></div><textarea class="prompter-text needsclick notranslate trumbowyg-textarea" placeholder="Say something awesome!" tabindex="-1" style="height: 378px;"></textarea><div class="trumbowyg-dropdown-foreColor trumbowyg-dropdown trumbowyg-fixed-top" data-trumbowyg-dropdown="foreColor" style="display: none;"><button type="button" class="trumbowyg-foreColorff0000-dropdown-button" style="background-color: #ff0000;"><svg><use xlink:href="#trumbowyg-fore-colorff0000"></use></svg>foreColorff0000</button><button type="button" class="trumbowyg-foreColorffff00-dropdown-button" style="background-color: #ffff00;"><svg><use xlink:href="#trumbowyg-fore-colorffff00"></use></svg>foreColorffff00</button><button type="button" class="trumbowyg-foreColor00ff00-dropdown-button" style="background-color: #00ff00;"><svg><use xlink:href="#trumbowyg-fore-color00ff00"></use></svg>foreColor00ff00</button><button type="button" class="trumbowyg-foreColor008FFF-dropdown-button" style="background-color: #008FFF;"><svg><use xlink:href="#trumbowyg-fore-color008-fff"></use></svg>foreColor008FFF</button><button type="button" class="trumbowyg-foreColor00ffff-dropdown-button" style="background-color: #00ffff;"><svg><use xlink:href="#trumbowyg-fore-color00ffff"></use></svg>foreColor00ffff</button><button type="button" class="trumbowyg-foreColorff00ff-dropdown-button" style="background-color: #ff00ff;"><svg><use xlink:href="#trumbowyg-fore-colorff00ff"></use></svg>foreColorff00ff</button><button type="button" class="trumbowyg-foreColorf26522-dropdown-button" style="background-color: #f26522;"><svg><use xlink:href="#trumbowyg-fore-colorf26522"></use></svg>foreColorf26522</button><button type="button" class="trumbowyg-foreColorffffff-dropdown-button" style="background-color: #ffffff;"><svg><use xlink:href="#trumbowyg-fore-colorffffff"></use></svg>foreColorffffff</button><button type="button" class="trumbowyg-foreColorcccccc-dropdown-button" style="background-color: #cccccc;"><svg><use xlink:href="#trumbowyg-fore-colorcccccc"></use></svg>foreColorcccccc</button><button type="button" class="trumbowyg-foreColor959595-dropdown-button" style="background-color: #959595;"><svg><use xlink:href="#trumbowyg-fore-color959595"></use></svg>foreColor959595</button><button type="button" class="trumbowyg-foreColor000000-dropdown-button" style="background-color: #000000;"><svg><use xlink:href="#trumbowyg-fore-color000000"></use></svg>foreColor000000</button><button type="button" class="trumbowyg-foreColorFF9F9F-dropdown-button" style="background-color: #FF9F9F;"><svg><use xlink:href="#trumbowyg-fore-color-ff9-f9-f"></use></svg>foreColorFF9F9F</button><button type="button" class="trumbowyg-foreColorFFFFBF-dropdown-button" style="background-color: #FFFFBF;"><svg><use xlink:href="#trumbowyg-fore-color-ffffbf"></use></svg>foreColorFFFFBF</button><button type="button" class="trumbowyg-foreColorBFFFBF-dropdown-button" style="background-color: #BFFFBF;"><svg><use xlink:href="#trumbowyg-fore-color-bfffbf"></use></svg>foreColorBFFFBF</button><button type="button" class="trumbowyg-foreColor80C7FF-dropdown-button" style="background-color: #80C7FF;"><svg><use xlink:href="#trumbowyg-fore-color80-c7-ff"></use></svg>foreColor80C7FF</button><button type="button" class="trumbowyg-foreColorBFFFFF-dropdown-button" style="background-color: #BFFFFF;"><svg><use xlink:href="#trumbowyg-fore-color-bfffff"></use></svg>foreColorBFFFFF</button><button type="button" class="trumbowyg-foreColorFF80FF-dropdown-button" style="background-color: #FF80FF;"><svg><use xlink:href="#trumbowyg-fore-color-ff80-ff"></use></svg>foreColorFF80FF</button><button type="button" class="trumbowyg-foreColorF79F75-dropdown-button" style="background-color: #F79F75;"><svg><use xlink:href="#trumbowyg-fore-color-f79-f75"></use></svg>foreColorF79F75</button><button type="button" class="trumbowyg-foreColorRemove-dropdown-button" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAG0lEQVQIW2NkQAAfEJMRmwBYhoGBYQtMBYoAADziAp0jtJTgAAAAAElFTkSuQmCC);"><svg><use xlink:href="#trumbowyg-fore-color-remove"></use></svg>foreColorRemove</button><button type="button" class="trumbowyg-foreColorFree-dropdown-button" style="text-indent: 0;line-height: 20px;padding: 0 5px;"><svg><use xlink:href="#trumbowyg-fore-color-free"></use></svg>#</button></div><div class="trumbowyg-dropdown-backColor trumbowyg-dropdown trumbowyg-fixed-top" data-trumbowyg-dropdown="backColor" style="display: none;"><button type="button" class="trumbowyg-backColorff0000-dropdown-button" style="background-color: #ff0000;"><svg><use xlink:href="#trumbowyg-back-colorff0000"></use></svg>backColorff0000</button><button type="button" class="trumbowyg-backColorffff00-dropdown-button" style="background-color: #ffff00;"><svg><use xlink:href="#trumbowyg-back-colorffff00"></use></svg>backColorffff00</button><button type="button" class="trumbowyg-backColor00ff00-dropdown-button" style="background-color: #00ff00;"><svg><use xlink:href="#trumbowyg-back-color00ff00"></use></svg>backColor00ff00</button><button type="button" class="trumbowyg-backColor008FFF-dropdown-button" style="background-color: #008FFF;"><svg><use xlink:href="#trumbowyg-back-color008-fff"></use></svg>backColor008FFF</button><button type="button" class="trumbowyg-backColor00ffff-dropdown-button" style="background-color: #00ffff;"><svg><use xlink:href="#trumbowyg-back-color00ffff"></use></svg>backColor00ffff</button><button type="button" class="trumbowyg-backColorff00ff-dropdown-button" style="background-color: #ff00ff;"><svg><use xlink:href="#trumbowyg-back-colorff00ff"></use></svg>backColorff00ff</button><button type="button" class="trumbowyg-backColorf26522-dropdown-button" style="background-color: #f26522;"><svg><use xlink:href="#trumbowyg-back-colorf26522"></use></svg>backColorf26522</button><button type="button" class="trumbowyg-backColorffffff-dropdown-button" style="background-color: #ffffff;"><svg><use xlink:href="#trumbowyg-back-colorffffff"></use></svg>backColorffffff</button><button type="button" class="trumbowyg-backColorcccccc-dropdown-button" style="background-color: #cccccc;"><svg><use xlink:href="#trumbowyg-back-colorcccccc"></use></svg>backColorcccccc</button><button type="button" class="trumbowyg-backColor959595-dropdown-button" style="background-color: #959595;"><svg><use xlink:href="#trumbowyg-back-color959595"></use></svg>backColor959595</button><button type="button" class="trumbowyg-backColor000000-dropdown-button" style="background-color: #000000;"><svg><use xlink:href="#trumbowyg-back-color000000"></use></svg>backColor000000</button><button type="button" class="trumbowyg-backColorFF9F9F-dropdown-button" style="background-color: #FF9F9F;"><svg><use xlink:href="#trumbowyg-back-color-ff9-f9-f"></use></svg>backColorFF9F9F</button><button type="button" class="trumbowyg-backColorFFFFBF-dropdown-button" style="background-color: #FFFFBF;"><svg><use xlink:href="#trumbowyg-back-color-ffffbf"></use></svg>backColorFFFFBF</button><button type="button" class="trumbowyg-backColorBFFFBF-dropdown-button" style="background-color: #BFFFBF;"><svg><use xlink:href="#trumbowyg-back-color-bfffbf"></use></svg>backColorBFFFBF</button><button type="button" class="trumbowyg-backColor80C7FF-dropdown-button" style="background-color: #80C7FF;"><svg><use xlink:href="#trumbowyg-back-color80-c7-ff"></use></svg>backColor80C7FF</button><button type="button" class="trumbowyg-backColorBFFFFF-dropdown-button" style="background-color: #BFFFFF;"><svg><use xlink:href="#trumbowyg-back-color-bfffff"></use></svg>backColorBFFFFF</button><button type="button" class="trumbowyg-backColorFF80FF-dropdown-button" style="background-color: #FF80FF;"><svg><use xlink:href="#trumbowyg-back-color-ff80-ff"></use></svg>backColorFF80FF</button><button type="button" class="trumbowyg-backColorF79F75-dropdown-button" style="background-color: #F79F75;"><svg><use xlink:href="#trumbowyg-back-color-f79-f75"></use></svg>backColorF79F75</button><button type="button" class="trumbowyg-backColorRemove-dropdown-button" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAG0lEQVQIW2NkQAAfEJMRmwBYhoGBYQtMBYoAADziAp0jtJTgAAAAAElFTkSuQmCC);"><svg><use xlink:href="#trumbowyg-back-color-remove"></use></svg>backColorRemove</button><button type="button" class="trumbowyg-backColorFree-dropdown-button" style="text-indent: 0;line-height: 20px;padding: 0 5px;"><svg><use xlink:href="#trumbowyg-back-color-free"></use></svg>#</button></div><div class="trumbowyg-dropdown-align trumbowyg-dropdown trumbowyg-fixed-top" data-trumbowyg-dropdown="align" style="display: none;"><button type="button" class="trumbowyg-justifyLeft-dropdown-button"><svg><use xlink:href="#trumbowyg-justify-left"></use></svg>Align Left</button><button type="button" class="trumbowyg-justifyCenter-dropdown-button"><svg><use xlink:href="#trumbowyg-justify-center"></use></svg>Align Center</button><button type="button" class="trumbowyg-justifyRight-dropdown-button"><svg><use xlink:href="#trumbowyg-justify-right"></use></svg>Align Right</button><button type="button" class="trumbowyg-justifyFull-dropdown-button"><svg><use xlink:href="#trumbowyg-justify-full"></use></svg>Align Justify</button></div><div class="trumbowyg-overlay"></div></div><a class="pure-button pure-button-primary text-submit" data-page="prompter">Start Prompter<i class="icon-right-open-big"></i></a></div>
